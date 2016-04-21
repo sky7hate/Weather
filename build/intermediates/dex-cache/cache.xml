@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android Project\Weather\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="307c1cc532eabbf1d135b43e5c983c9da700449d">
+        <dex dex="D:\Android Project\Weather\build\intermediates\pre-dexed\release\android-support-v4-07eedb4c237495f543a10fc4b1fa38ba2fecaa76.jar" />
+    </item>
+    <item
+        jar="D:\Android Project\Weather\libs\pinyin4j-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="D:\Android Project\Weather\build\intermediates\pre-dexed\release\pinyin4j-2.5.0-8606f751e58686e38d0b7d78474951b199855bed.jar" />
+    </item>
+    <item
+        jar="D:\Android Project\Weather\libs\locSDK_3.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="590d32bdf5bb37ee372a21696b8f7853b224e31f">
+        <dex dex="D:\Android Project\Weather\build\intermediates\pre-dexed\release\locSDK_3.3-2410d599778bb2d05dfce34359b25136e3e64b1e.jar" />
+    </item>
+    <item
+        jar="D:\Android Project\Weather\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="D:\Android Project\Weather\build\intermediates\pre-dexed\release\gson-2.2.4-0d949e6ae8ce8d30ec730e1a3a0276938f11d2f5.jar" />
+    </item>
+
+</items>
